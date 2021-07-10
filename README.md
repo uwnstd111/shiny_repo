@@ -1,1 +1,1 @@
-# Tu powinien być opis projektu
+# There should be project specification
